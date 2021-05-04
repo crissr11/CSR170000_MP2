@@ -1,3 +1,4 @@
 # CSR170000_MP2
 
-# Only turn in changed files and the signed apk.
+# AndroidInstrument.java is only altered with netID.
+# Signed apk is my-aligned.apk
